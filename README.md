@@ -1,7 +1,7 @@
 # I3-10110U-Machenike-Young15-Hackintosh-OpenCore
 
-![Image text](https://github.com/Tyningling/I3-10110U-Machenike-Young15-Hackintosh-OpenCore/blob/main/Bg1.png)
-![Image text](https://github.com/Tyningling/I3-10110U-Machenike-Young15-Hackintosh-OpenCore/blob/main/4345FDC8224E4CAF5A9190EBECCF5C93.jpg)
+![Image text](https://github.com/Tyningling/Tyningling-I3-10110U-MachenikeA/blob/main/Bg1.png)
+![Image text](https://github.com/Tyningling/Tyningling-I3-10110U-MachenikeA/blob/main/4345FDC8224E4CAF5A9190EBECCF5C93.jpg)
 ## Laptop Specs
 
 | Specifications      | Detail                                                  |
