@@ -28,7 +28,7 @@
 - ~~HDMI~~ （No display output, if you don't mind, it doesn't affect your use.）
 - Webcam (It can work, but it needs to be improved)
 - Audio (Both Speaker and Headphones)
-- Microphone (Only headset. Fix below)
+- Microphone (Line Input don't work)
 - Battery Manager
 - Brightness
 
